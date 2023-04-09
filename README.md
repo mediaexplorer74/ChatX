@@ -1,5 +1,6 @@
 # ChatX
 ![ChatGPT](Images/logo.png)
+
 My fork of old sweet [Xamarin-Forms-and-SignalR-Example](https://github.com/schneidenbach/Xamarin-Forms-and-SignalR-Example).
 
 Warning: OpenAI rapidly blocks any "discord key"... So... free chat not realized yet... ;(
