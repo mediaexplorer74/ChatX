@@ -20,7 +20,9 @@ An alternative chat api used (reverse proxy) to access world-wide.
 - Server : https://api.pawan.krd (Reverse-proxy for official chatgpt api)
 
 ## Tuning
-If the key 
+See https://github.com/PawanOsman/ChatGPT (Readme) for key obtain method.
+Join [https://discord.pawan.krd/], choose #Bot channel.
+Get your API key by sending /key command.
 
 
 ## Ideas
