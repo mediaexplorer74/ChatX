@@ -21,8 +21,8 @@ A simple multi-platform implementation of a Xamarin.Forms AI app mixed with Priv
 - Server : https://private-ai.com
 
 ## How to ket your own api-key
-See https://docs.private-ai.com/ (Get Started, etc.)
-Get your API key and paste it at ChatGPT.cs.
+- See https://docs.private-ai.com/ (Get Started, etc.)
+- Get your API key and paste it at ChatGPT.cs.
 
 
 ## Ideas
