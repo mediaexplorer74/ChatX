@@ -1,36 +1,37 @@
 # ChatX
 ![ChatGPT](Images/logo.png)
 
-My fork of old sweet [Xamarin-Forms-and-SignalR-Example](https://github.com/schneidenbach/Xamarin-Forms-and-SignalR-Example).
+My experimental GhatGPT-like project based on PrivateAI api.
 
-Warning: OpenAI rapidly blocks any "discord key"... So... free chat not realized yet... ;(
+Warning: PrivateAI is privatedata-oriented version of ChatGPT... but it's also ChatGPT ;)
+
+Free plan has some limits like 4 messegas per second & 75 messages per day. It's good for my little RnD.
 
 ## About 
-A simple multi-platform implementation of a Xamarin.Forms ChatGPT app mixed with ChatGPT api. ;)
-An alternative chat api used (reverse proxy) to access world-wide.  
+A simple multi-platform implementation of a Xamarin.Forms AI app mixed with PrivateAI-based api. ;)
 
 ## Screenshots
 ![Shot 1](Images/shot1.png)
 
 
 ## Tech. moments
-
+### Min. Win. OS build SDK = 15063
 ### Solution's Architecture
 - Client : ChatX shared project; ChatX.UWP, ChatX.Droid, ChatX.iOS target-dependant projects
-- Server : https://api.pawan.krd (Reverse-proxy for official chatgpt api)
+- Server : https://private-ai.com
 
-## Tuning
-See https://github.com/PawanOsman/ChatGPT (Readme) for key obtain method.
-Join [https://discord.pawan.krd/], choose #Bot channel.
-Get your API key by sending /key command.
+## How to ket your own api-key
+See https://docs.private-ai.com/ (Get Started, etc.)
+Get your API key and paste it at ChatGPT.cs.
 
 
 ## Ideas
-- MultiChatGPT... why not? =)
+- More powerful ChatGPT UI... because why not? =)
+- Windows10Mobile ARM version? 
 
 ## ..
 AS IS. No support. RnD only.
 
 ## .
-[m][e] 2023
+[m][e] 2024
 

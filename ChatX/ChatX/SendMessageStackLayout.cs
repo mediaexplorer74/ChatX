@@ -2,8 +2,8 @@ using System;
 
 using Xamarin.Forms;
 using System.Collections.ObjectModel;
-using ChatGPT.Net;
-using ChatGPT.Net.DTO.ChatGPT;
+//using ChatGPT.Net;
+//using ChatGPT.Net.DTO.ChatGPT;
 
 namespace XamarinSignalRExample
 {
