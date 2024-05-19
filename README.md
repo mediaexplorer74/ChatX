@@ -1,7 +1,7 @@
 # ChatX
 ![ChatGPT](Images/logo.png)
 
-My experimental GhatGPT-like project based on PrivateAI api.
+My experimental GhatGPT-like project (prototape) based on modern PrivateAI "Cloud" api.
 
 Warning: PrivateAI is privatedata-oriented version of ChatGPT... but it's also ChatGPT ;)
 
@@ -11,11 +11,14 @@ Free plan has some limits like 4 messegas per second & 75 messages per day. It's
 A simple multi-platform implementation of a Xamarin.Forms AI app mixed with PrivateAI-based api. ;)
 
 ## Screenshots
-![Shot 1](Images/shot1.png)
-
+![ChatX  on Win11 Desktop](Images/shot01.png)
+![ChatX on W10M](Images/shot02.png)
+![PrivateGPT web-site](Images/shot03.png)
 
 ## Tech. moments
-### Min. Win. OS build SDK = 15063
+
+### Min. Win. OS build SDK = 10240 (Hello, Astoria!)
+
 ### Solution's Architecture
 - Client : ChatX shared project; ChatX.UWP, ChatX.Droid, ChatX.iOS target-dependant projects
 - Server : https://private-ai.com

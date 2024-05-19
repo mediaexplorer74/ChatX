@@ -36,8 +36,8 @@ namespace XamarinSignalRExample
 
             //******************
 
-            ChatGpt bot = new ChatGpt 
-            ("pk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+            ChatGpt chatbot = new ChatGpt 
+            (//"pk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
             new ChatGptOptions
             {
                BaseUrl = "https://api.pawan.krd"
@@ -110,10 +110,10 @@ namespace XamarinSignalRExample
                     
 				Debug.Write("ChatGPT: prompt=" + prompt);
 
-				System.Action<string> message1 = default;
+				//System.Action<string> message1 = default;
 
                 //await 
-                string str = await bot.AskStream(/*Console.Write*/message1, prompt, "default");
+                string str = await chatbot.AskStream(/*message1, */prompt);
                     
 			    Debug.WriteLine(" Your message = "  + prompt);
                 //}

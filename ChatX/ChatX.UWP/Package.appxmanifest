@@ -14,7 +14,7 @@
   <mp:PhoneIdentity PhoneProductId="e10cc741-fd3e-485c-81b1-68815c882590" PhonePublisherId="00258800-8825-8060-0000-000000004400"/>
 
   <Properties>
-    <DisplayName>XamarinSignalRExample.UWP</DisplayName>
+    <DisplayName>ChatX v1.0</DisplayName>
     <PublisherDisplayName>mediaexplorer</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -32,7 +32,7 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="XamarinSignalRExample.UWP.App">
       <uap:VisualElements
-        DisplayName="ChatX"
+        DisplayName="ChatX 1.0"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
         Description="ChatX.UWP"
