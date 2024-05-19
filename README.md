@@ -30,7 +30,7 @@ A simple multi-platform implementation of a Xamarin.Forms AI app mixed with Priv
 
 ## Ideas
 - More powerful ChatGPT UI... because why not? =)
-- Windows10Mobile ARM version? 
+- Explore (an)other api functions (instead of used ProcessText) to be more ChatGPT-friendly ;) 
 
 ## ..
 AS IS. No support. RnD only.
